@@ -4,6 +4,10 @@
 
 This is a repository for updated and discontinued Fabric mods.
 
+你可以在我的私有云上下载 也可以在Github的Release中下载
+
+You can download it on my private cloud or in the Release on Github.
+
 ## 依赖 depend
 
 [Fabric Loader](https://fabricmc.net/use/installer/)

@@ -21,3 +21,15 @@ This is a repository for updated and discontinued Fabric mods.
 ## 模组列表
 
 ### voxelmap 体素地图
+
+[1.18.2](https://io.magicst.cn/voxelmap/voxelmap-1.18.2)
+
+[1.18.1](https://io.magicst.cn/voxelmap/voxelmap-1.18.1)
+
+[22w06a](https://io.magicst.cn/voxelmap/voxelmap-22w06a)
+
+[22w05a](https://io.magicst.cn/voxelmap/voxelmap-22w05a)
+
+[22w03a](https://io.magicst.cn/voxelmap/voxelmap-22w03a)
+
+### BBOR
